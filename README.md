@@ -14,3 +14,4 @@ This project matches an uploaded face photo with a saved employee photo and retu
 frontend/          # React app
 server/backend/    # Node/Express API
 server/python-ai/  # Flask + DeepFace service
+# Backend-Hardware-Testing
