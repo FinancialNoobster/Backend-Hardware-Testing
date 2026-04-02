@@ -15,3 +15,4 @@ frontend/          # React app
 server/backend/    # Node/Express API
 server/python-ai/  # Flask + DeepFace service
 # Backend-Hardware-Testing
+# Backend-Hardware-Testing
